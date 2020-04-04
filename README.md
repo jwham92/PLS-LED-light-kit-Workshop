@@ -1,5 +1,6 @@
 # PLS-LED-light-kit-Workshop
 
+### WEEK 01: [SEPT, 3]
 Hi guys,
 We are going to start to learn How to use Arduino LED light kit.
 
